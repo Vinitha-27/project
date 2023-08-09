@@ -1,0 +1,6 @@
+{
+    "name": "sampleApp",
+    "version": "0.0.1",
+    "homepage": "index.html",
+    "redirect_url":"https://ticketbookingsystem-60023154330.development.catalystserverless.in/server/TicketBookingSystem/"
+}
